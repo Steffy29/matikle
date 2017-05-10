@@ -1,7 +1,7 @@
 # Robot Matikle
 
 <p align="center">
-![alt text](https://github.com/Steffy29/matikle/blob/master/docs/Robot_Matikle.jpg "Robot Matikle")
+<img src="https://github.com/Steffy29/matikle/blob/master/docs/Robot_Matikle.jpg" alt="Robot Matikle">
 </p>
 
 ## Description du projet
