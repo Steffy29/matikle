@@ -1,0 +1,82 @@
+page-home {
+    background-size: 600px 500px;
+    .content-md,
+    .content-ios,
+    .content-wp {
+        background: linear-gradient(to bottom, #7c2969, rgba(255, 255, 255, 0.5));
+        color: #fff;
+    }
+    .icon-on {
+        color: #d50da9;
+    }
+    .icon-off {
+        color: #D2DBD2;
+    }
+    .button-md,
+    .button-ios,
+    .button-wp {
+        //overflow: hidden;
+        margin: 0.4rem 0.2rem;
+        border-radius: 2px;
+        font-size: 1.4rem;
+        font-weight: 500;
+        color: #fff;
+        background-color: #d50da9;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+        transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1), background-color 300ms cubic-bezier(0.4, 0, 0.2, 1), color 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .container {
+        align-items: center;
+    }
+    .overlay {
+        padding-top: 5px;
+        background-color: #000000;
+        opacity: 0.5;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .title {
+        padding-top: 10px;
+        padding-left: 5px;
+    }
+    .search {
+        padding-top: 20px;
+        padding-left: 5px;
+    }
+    .zipContainer {
+        border-bottom-color: #DDDDDD;
+        border-bottom-width: 1px;
+        margin-left: 5px;
+        margin-top: 3px;
+    }
+    .zipCode {
+        width: 200px;
+        height: 25px;
+        color: #000000;
+    }
+    .mainText {
+        font-size: 16px;
+        color: #FFFFFF;
+    }
+    .forecast {
+        align-items: center;
+        flex-direction: column;
+    }
+    .bigText {
+        font-size: 20px;
+        text-align: center;
+        margin: 5px;
+        color: #FFFFFF;
+    }
+    .mainText2 {
+        font-size: 16px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .myicon {
+        margin-left: 50px;
+        width: 50px;
+        height: 50px;
+    }
+}

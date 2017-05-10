@@ -1,0 +1,53 @@
+@import "./ionic.globals";
+// Personnalised Theme
+// ----------------------------------
+$colors: ( primary: #d50da9, secondary: #32db64, danger: #f53d3d, light: #f4f4f4, dark: #222, ) !default;
+$text-color: #fff !default;
+$link-color: color($colors, primary) !default;
+$background-color: #7c2969 !default;
+$subdued-text-color: #a72189 !default;
+$font-family-base: -apple-system,
+"Helvetica Neue",
+"Roboto",
+sans-serif !default;
+$font-size-base: 1.4rem !default; // 1.4rem == 14px
+$content-padding: 16px !default;
+$content-margin: 16px !default;
+$toolbar-background: #4c2644 !default;
+$toolbar-border-color: #512647 !default;
+$toolbar-text-color: $text-color !default;
+$toolbar-active-color: $link-color !default;
+$toolbar-inactive-color: #8c8c8c !default;
+$tabs-background: #c7b4c3 !default;
+$tabs-border-color: #a72189 !default;
+$tabs-tab-color-inactive: #a16393 !default;
+$tabs-tab-color-active: $link-color !default;
+$list-text-color: $text-color !default;
+$list-background-color: $background-color !default;
+$list-border-color: #c8c7cc !default;
+$tabs-md-tab-color-active: #EE26C2 !default;
+$tabs-md-tab-color-inactive: #a16393 !default;
+/// @prop - Opacity of the inactive tab button
+$tabs-md-tab-opacity: .7 !default;
+/// @prop - Text color of the inactive tab button
+$tabs-md-tab-text-color: rgba($tabs-md-tab-color-inactive, $tabs-md-tab-opacity) !default;
+/// @prop - Text color of the active tab button
+$tabs-md-tab-text-color-active: $tabs-md-tab-color-active !default;
+/// @prop - Icon color of the inactive tab button
+$tabs-md-tab-icon-color: rgba($tabs-md-tab-color-inactive, $tabs-md-tab-opacity) !default;
+/// @prop - Icon color of the active tab button
+$tabs-md-tab-icon-color-active: $tabs-md-tab-color-active !default;
+$tabs-ios-tab-color-active: #EE26C2 !default;
+$tabs-ios-tab-color-inactive: #a16393 !default;
+/// @prop - Opacity of the inactive tab button
+$tabs-ios-tab-opacity: .7 !default;
+/// @prop - Text color of the inactive tab button
+$tabs-ios-tab-text-color: rgba($tabs-ios-tab-color-inactive, $tabs-ios-tab-opacity) !default;
+/// @prop - Text color of the active tab button
+$tabs-ios-tab-text-color-active: $tabs-ios-tab-color-active !default;
+/// @prop - Icon color of the inactive tab button
+$tabs-ios-tab-icon-color: rgba($tabs-ios-tab-color-inactive, $tabs-ios-tab-opacity) !default;
+/// @prop - Icon color of the active tab button
+$tabs-ios-tab-icon-color-active: $tabs-ios-tab-color-active !default;
+$list-md-header-color: #fff !default;
+$list-ios-header-color: #fff !default;
