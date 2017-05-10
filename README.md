@@ -1,5 +1,5 @@
 # Robot Matikle
-
+![alt text](https://github.com/Steffy29/matikle/edit/master/docs/Robot_Matikle.jpg "Robot Matikle")
 
 ## Description du projet
 
