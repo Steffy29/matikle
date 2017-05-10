@@ -1,7 +1,5 @@
 # Robot Matikle
-![alt text][logo]
-
-[logo] : https://github.com/Steffy29/matikle/blob/master/docs/Robot_Matikle.jpg "Robot Matikle")
+![alt text](https://github.com/Steffy29/matikle/blob/master/docs/Robot_Matikle.jpg "Robot Matikle")
 
 ## Description du projet
 
