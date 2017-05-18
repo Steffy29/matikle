@@ -7,7 +7,7 @@ Ce projet permet de construire et de piloter son propre robot mobile à partir d
 ## Partie robotique
 
 <p align="center">
-<img src="https://github.com/Steffy29/matikle/blob/master/docs/Robot_Matikle.jpg" alt="Robot Matikle">
+<img src="Robot_Matikle.jpg" alt="Robot Matikle">
 </p>
 
 ### Composants
@@ -35,5 +35,5 @@ Robot construit à partir des composants fournis par Elegoo :
 ## Partie application mobile
 
 <p align="center">
-<img src="https://github.com/Steffy29/matikle/blob/master/docs/ioncar.png" alt="Application">
+<img src="ioncar.png" alt="Application">
 </p>
